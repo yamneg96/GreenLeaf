@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="frontend/assets/greenleaf_bg.jpg" alt="GreenLeaf Logo" width="200"/>
+</p>
+
 # GreenLeaf: My Personal Herbarium (አረንጓዴ ቅጠል፡ የእፅዋት መዝገብ)
 
 ## **Project Overview**  
